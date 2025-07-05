@@ -1,5 +1,5 @@
 
-# 🌀 Sonic Game Demo with Kaplay
+# 🌀 Game based on Sonic with Kaplay
 
 A simple **Sonic-inspired web-based game** built using **Kaplay** and **JavaScript**, powered by **Vite**. This project is a demonstration of using custom assets to build a basic game in the browser.
 
